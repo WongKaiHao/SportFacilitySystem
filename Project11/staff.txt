@@ -1,0 +1,6 @@
+S0001:Tan Jun Yuan:Assistant Manager:60162184403 tanjy:name short form
+S0002:Lew Kai Xuan:Administrator:601155053385 lkx:first lowercase character of name
+S0003:Gan Zhi Hao:Manager:60108009375 jak:jak
+S0004:Ho Wei Lee:Manager:60134594684 liangzai:nickname 
+S0005:Wong Kai Hao:Secretary:601127853910 27012001:birthday inculde year
+S0006:AAA BBB:Manager2:aaa 567:987
